@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HBD Dibyajyoti</string>
+    <string name="bsm_developers">BSM Developers</string>
+    <string name="from">From</string>
+    <string name="bd_msg">Happy Birthday \n Dibyajyoti</string>
+    <string name="hint">Please Enter your name…</string>
+    <string name="go">Create</string>
+</resources>
